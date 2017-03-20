@@ -1,4 +1,4 @@
-package com.mapreduce;
+package com.mapreduce.linecount;
 
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.*;
